@@ -3,6 +3,7 @@ out/
 .idea/
 GitTest9.iml
 **/*.log
+CodingFactory9.iml
 
 ### Mac OS ###
 .DS_Store
